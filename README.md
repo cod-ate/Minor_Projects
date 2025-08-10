@@ -1,2 +1,2 @@
 # Minor_Projects
-Projects using Java and Spring JDBC
+Projects using Java Concepts and Spring JDBC
